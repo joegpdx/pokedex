@@ -2,13 +2,16 @@ header {
   display: flex;
   align-items: flex-start;
   justify-content: flex-start;
-  background: blue;
-  color: white;
+  background: #39394a;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  text-transform: capitalize;
+  color: #f66a6a;
+  /* color: white; */
 }
 
-header h1 {
+/* header h1 {
   padding-top: 15px;
-}
+} */
 ul {
   display: flex;
   flex-wrap: wrap;
@@ -17,7 +20,7 @@ ul {
 
  li{
   text-align: center;
-  height: 430px;
+  height: 475px;
   max-width: 300px;
   background: #39394a;
   border-radius: 6px;

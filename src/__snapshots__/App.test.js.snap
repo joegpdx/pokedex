@@ -1,0 +1,12 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders App.js correctly 1`] = `
+<div>
+  <header>
+    <h1>
+      Pokemon Cards
+    </h1>
+  </header>
+  <ul />
+</div>
+`;
