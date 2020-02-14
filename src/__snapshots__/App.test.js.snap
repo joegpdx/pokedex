@@ -7,6 +7,26 @@ exports[`renders App.js correctly 1`] = `
       Pokemon Cards
     </h1>
   </header>
+  <div
+    id="search"
+  >
+    <form
+      onSubmit={[Function]}
+    >
+      <input
+        onChange={[Function]}
+        value=""
+      />
+      <button>
+        Search
+      </button>
+    </form>
+  </div>
   <ul />
+  <p
+    className="paging"
+  >
+    No results, try another search
+  </p>
 </div>
 `;
