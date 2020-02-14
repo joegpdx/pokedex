@@ -15,6 +15,7 @@ export default class SearchOptions extends Component {
         queryParam.set('pokemon', this.state.searchName);
         queryParam.set('page', 1)
         window.location.hash = queryParam.toString();
+        console.log(queryParam)
     }
     render() {
         return(
