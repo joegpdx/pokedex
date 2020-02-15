@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders PokeItem.js correctly 1`] = `
+<p
+  className="paging"
+>
+  No results, try another search
+</p>
+`;
